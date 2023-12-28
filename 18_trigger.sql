@@ -1,3 +1,4 @@
+-- Active: 1703639117901@@127.0.0.1@3307@menudb
 -- 메뉴 추가 시 update 자동화 trigger 만들기
 DELIMITER //
 
